@@ -1,7 +1,22 @@
 [
     {
+        "name": "sessionid",
+        "value": "i0gwzdxwhwk5xfjnmm28l5wp53uymp8n",
+        "domain": ".addons.mozilla.org",
+        "hostOnly": false,
+        "path": "/",
+        "secure": true,
+        "httpOnly": true,
+        "sameSite": "lax",
+        "session": false,
+        "firstPartyDomain": "",
+        "partitionKey": null,
+        "expirationDate": 1735625634,
+        "storeId": null
+    },
+    {
         "name": "_ga_B9CY1C9VBC",
-        "value": "GS1.1.1732761102.6.0.1732761118.0.0.0",
+        "value": "GS1.1.1733122956.11.0.1733122963.0.0.0",
         "domain": ".mozilla.org",
         "hostOnly": false,
         "path": "/",
@@ -11,12 +26,12 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1767321119,
+        "expirationDate": 1767682963,
         "storeId": null
     },
     {
         "name": "_ga",
-        "value": "GA1.2.62465898.1732508978",
+        "value": "GA1.1.62465898.1732508978",
         "domain": ".mozilla.org",
         "hostOnly": false,
         "path": "/",
@@ -26,7 +41,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1767329405,
+        "expirationDate": 1767682956,
         "storeId": null
     },
     {
@@ -41,7 +56,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1732769465,
+        "expirationDate": 1733123016,
         "storeId": null
     },
     {
@@ -61,7 +76,7 @@
     },
     {
         "name": "_gid",
-        "value": "GA1.2.1803765875.1732761101",
+        "value": "GA1.2.331663985.1733115533",
         "domain": ".mozilla.org",
         "hostOnly": false,
         "path": "/",
@@ -71,7 +86,7 @@
         "session": false,
         "firstPartyDomain": "",
         "partitionKey": null,
-        "expirationDate": 1732855805,
+        "expirationDate": 1733209356,
         "storeId": null
     },
     {
